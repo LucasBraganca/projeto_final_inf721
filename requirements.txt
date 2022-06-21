@@ -3,7 +3,7 @@ scipy==1.2.1
 six==1.11.0
 absl_py==0.8.1
 pandas==0.25.3
-numpy==1.17.4
+numpy==1.22.0
 opencv_python==4.1.2.30
 mock==3.0.5
 Pillow>=7.1.0
